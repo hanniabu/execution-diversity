@@ -1,0 +1,147 @@
+html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    height: 100%;
+    font-family: "Courier New", sans-serif;
+    background: seashell;
+}
+
+body, body * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 1200px;
+    padding: 20px 0;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.stats {
+    padding: 20px;
+    flex: 1;
+}
+
+.stats a {
+    color: inherit;
+}
+
+.faq {
+    min-width: 400px;
+    padding: 20px;
+    flex: 1;
+}
+
+main > h1 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+main > span {
+    margin: 0 auto;
+}
+
+.service + .service {
+    margin-top: 10px;
+}
+
+.clients {
+    display: flex;
+    height: 40px;
+    margin: 10px 0 20px 0;
+}
+
+.overview {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.overview > li {
+    color: white;
+    padding: 5px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.faq > ul > li {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.faq > ul > li > a {
+    width: fit-content;
+}
+
+.faq > ul > li > h3 {
+    margin-bottom: 5px;
+}
+
+.faq > ul > li > span {
+    margin-bottom: 10px;
+}
+
+span {
+    font-size: large;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.Geth {
+    background: #C1292E;
+}
+
+.Nethermind {
+    background: #0E79B2;
+}
+
+.Besu {
+    background: #697A21;
+}
+
+.Erigon {
+    background: #724401;
+}
+
+.Unknown {
+    background: #FF8C00;
+}
+
+.NoGeth {
+    background: #B1F8F2;
+}
+
+.tippy-box {
+    font-size: 15px;
+}
+
+.twitter {
+    display: flex;
+    width: 24px;
+    margin: 0 10px 0 auto
+}
