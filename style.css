@@ -143,5 +143,6 @@ ul {
 .twitter {
     display: flex;
     width: 24px;
+    height: 24px;
     margin: 0 15px 0 auto
 }
