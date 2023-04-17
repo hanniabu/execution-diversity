@@ -1,5 +1,19 @@
 [
   {
+    "name": "Attestant",
+    "website": "https://www.attestant.io/",
+    "sourceLink": "https://www.attestant.io/posts/helping-client-diversity/",
+    "twitter": "https://twitter.com/attestantio",
+    "reliable": false,
+    "clients": [
+      {
+        "name": "NoGeth",
+        "tooltip": "Does not use Geth for attestations (no supermajority client risk). See link for details.",
+        "percent": 100
+      }
+    ]
+  },
+  {
     "name": "Ethpool",
     "website": "https://ethpool.org/",
     "source": "Support (Discord)",
@@ -59,20 +73,6 @@
       {
         "name": "Erigon",
         "percent": 2.5
-      }
-    ]
-  },
-  {
-    "name": "Attestant",
-    "website": "https://www.attestant.io/",
-    "sourceLink": "https://www.attestant.io/posts/helping-client-diversity/",
-    "twitter": "https://twitter.com/attestantio",
-    "reliable": false,
-    "clients": [
-      {
-        "name": "Unknown",
-        "tooltip": "Allocation unknown, diversified",
-        "percent": 100
       }
     ]
   },
