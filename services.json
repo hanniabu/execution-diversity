@@ -8,7 +8,7 @@
     "clients": [
       {
         "name": "NoGeth",
-        "tooltip": "Does not use Geth for attestations (no supermajority client risk). See link for details.",
+        "tooltip": "Geth is not used for attestations (no supermajority client risk). See the link for details.",
         "percent": 100
       }
     ]
