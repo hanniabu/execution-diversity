@@ -35,19 +35,19 @@
     "clients": [
       {
         "name": "Geth",
-        "percent": 54.26
+        "percent": 49.4
       },
       {
         "name": "Nethermind",
-        "percent": 13.09
+        "percent": 14.84
       },
       {
         "name": "Besu",
-        "percent": 6.43
+        "percent": 7.14
       },
       {
         "name": "Unknown",
-        "percent": 26.22
+        "percent": 28.62
       }
     ]
   },
