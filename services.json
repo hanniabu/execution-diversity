@@ -27,6 +27,27 @@
     ]
   },
   {
+    "name": "StakeWise",
+    "website": "https://stakewise.io/",
+    "source": "Support (Discord), approximate numbers",
+    "twitter": "https://twitter.com/stakewise_io",
+    "reliable": true,
+    "clients": [
+      {
+        "name": "Geth",
+        "percent": 42.12
+      },
+      {
+        "name": "Nethermind",
+        "percent": 28.94
+      },
+      {
+        "name": "Besu",
+        "percent": 28.94
+      }
+    ]
+  },
+  {
     "name": "Rocket Pool",
     "website": "https://rocketpool.net/",
     "source": "Discord (Tool developed by 0xinvis.eth)",
@@ -73,27 +94,6 @@
       {
         "name": "Erigon",
         "percent": 2.5
-      }
-    ]
-  },
-  {
-    "name": "StakeWise",
-    "website": "https://stakewise.io/",
-    "source": "Support (Discord), approximate numbers",
-    "twitter": "https://twitter.com/stakewise_io",
-    "reliable": true,
-    "clients": [
-      {
-        "name": "Geth",
-        "percent": 42.12
-      },
-      {
-        "name": "Nethermind",
-        "percent": 28.94
-      },
-      {
-        "name": "Besu",
-        "percent": 28.94
       }
     ]
   },
