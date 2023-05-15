@@ -79,14 +79,21 @@
   {
     "name": "StakeWise",
     "website": "https://stakewise.io/",
-    "source": "Data pending",
+    "source": "Support (Discord), approximate numbers",
     "twitter": "https://twitter.com/stakewise_io",
-    "reliable": false,
+    "reliable": true,
     "clients": [
       {
-        "name": "Unknown",
-        "tooltip": "Allocation unknown, diversified",
-        "percent": 100
+        "name": "Geth",
+        "percent": 42.12
+      },
+      {
+        "name": "Nethermind",
+        "percent": 28.94
+      },
+      {
+        "name": "Besu",
+        "percent": 28.94
       }
     ]
   },
