@@ -11,7 +11,9 @@
         "tooltip": "Geth is not used for attestations (no supermajority client risk). See the link for details.",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Attestant",
+    "type": "operator"
   },
   {
     "name": "Ethpool",
@@ -24,7 +26,9 @@
         "name": "Nethermind",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": null,
+    "type": "pool"
   },
   {
     "name": "StakeWise",
@@ -45,7 +49,9 @@
         "name": "Besu",
         "percent": 28.94
       }
-    ]
+    ],
+    "ratedId": "StakeWise",
+    "type": "pool"
   },
   {
     "name": "Rocket Pool",
@@ -70,7 +76,9 @@
         "name": "Unknown",
         "percent": 28.62
       }
-    ]
+    ],
+    "ratedId": "Rocketpool",
+    "type": "pool"
   },
   {
     "name": "Lido",
@@ -95,7 +103,9 @@
         "name": "Erigon",
         "percent": 2.5
       }
-    ]
+    ],
+    "ratedId": "Lido",
+    "type": "pool"
   },
   {
     "name": "Staked",
@@ -109,7 +119,9 @@
         "tooltip": "Allocation unknown, diversified (Geth and Erigon)",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Staked.us",
+    "type": "operator"
   },
   {
     "name": "Allnodes",
@@ -122,7 +134,9 @@
         "name": "Geth",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Allnodes",
+    "type": "operator"
   },
   {
     "name": "Ankr",
@@ -136,7 +150,9 @@
         "tooltip": "Maybe 100% Geth",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Ankr",
+    "type": "pool"
   },
   {
     "name": "Blox Staking",
@@ -149,7 +165,9 @@
         "name": "Geth",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Bloxstaking",
+    "type": "pool"
   },
   {
     "name": "Binance",
@@ -164,7 +182,9 @@
         "tooltip": "Maybe 100% Geth",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Binance",
+    "type": "pool"
   },
   {
     "name": "Bitcoin Suisse",
@@ -178,7 +198,9 @@
         "tooltip": "Maybe 100% Geth",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Bitcoin Suisse",
+    "type": "pool"
   },
   {
     "name": "Bitfinex",
@@ -192,7 +214,9 @@
         "tooltip": "Maybe 100% Geth",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Bitfinex",
+    "type": "pool"
   },
   {
     "name": "Coinbase",
@@ -206,7 +230,9 @@
         "tooltip": "Maybe 100% Geth",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Coinbase",
+    "type": "pool"
   },
   {
     "name": "Kraken",
@@ -220,7 +246,9 @@
         "tooltip": "Maybe 100% Geth",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Kraken",
+    "type": "pool"
   },
   {
     "name": "P2P.org",
@@ -233,7 +261,9 @@
         "name": "Geth",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "P2P.ORG - P2P Validator",
+    "type": "operator"
   },
   {
     "name": "stakefish",
@@ -246,6 +276,8 @@
         "name": "Geth",
         "percent": 100
       }
-    ]
+    ],
+    "ratedId": "Stakefish",
+    "type": "pool"
   }
 ]
