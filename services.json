@@ -89,19 +89,19 @@
     "clients": [
       {
         "name": "Geth",
-        "percent": 88.5
+        "percent": 84.5
       },
       {
         "name": "Nethermind",
-        "percent": 5.5
+        "percent": 8.1
       },
       {
         "name": "Besu",
-        "percent": 3.5
+        "percent": 5.0
       },
       {
         "name": "Erigon",
-        "percent": 2.5
+        "percent": 2.4
       }
     ],
     "ratedId": "Lido",
