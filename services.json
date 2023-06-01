@@ -62,19 +62,19 @@
     "clients": [
       {
         "name": "Geth",
-        "percent": 49.4
+        "percent": 43.5
       },
       {
         "name": "Nethermind",
-        "percent": 14.84
+        "percent": 13.17
       },
       {
         "name": "Besu",
-        "percent": 7.14
+        "percent": 6.71
       },
       {
         "name": "Unknown",
-        "percent": 28.62
+        "percent": 36.62
       }
     ],
     "ratedId": "Rocketpool",
