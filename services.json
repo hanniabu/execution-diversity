@@ -83,25 +83,25 @@
   {
     "name": "Lido",
     "website": "https://lido.fi/ethereum",
-    "sourceLink": "https://research.lido.fi/t/lido-node-operator-validator-metrics/1431",
+    "sourceLink": "https://app.hex.tech/8dedcd99-17f4-49d8-944e-4857a355b90a/app/3f7d6967-3ef6-4e69-8f7b-d02d903f045b/latest#client-diversity-execution-layer",
     "twitter": "https://twitter.com/LidoFinance",
     "reliable": true,
     "clients": [
       {
         "name": "Geth",
-        "percent": 84.5
+        "percent": 78.0
       },
       {
         "name": "Nethermind",
-        "percent": 8.1
+        "percent": 10.2
       },
       {
         "name": "Besu",
-        "percent": 5.0
+        "percent": 8.6
       },
       {
         "name": "Erigon",
-        "percent": 2.4
+        "percent": 3.1
       }
     ],
     "ratedId": "Lido",
